@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092012175506",
+    "firebase_url": "https://jeongu-pedia-38b90-default-rtdb.firebaseio.com",
+    "project_id": "jeongu-pedia-38b90",
+    "storage_bucket": "jeongu-pedia-38b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092012175506:android:480e01970303fcb7fb764b",
+        "android_client_info": {
+          "package_name": "com.example.jeongu_pedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092012175506-moafiefdcd4s5a2fdttp6nurc36bk0r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmfAjdqBf5CjMLK0EqafHktZIRGuIhDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092012175506-moafiefdcd4s5a2fdttp6nurc36bk0r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">정우 피디아</string>
+    <string name="menu_name_home">홈</string>
+    <string name="menu_name_my_review">작성 완료</string>
+    <string name="menu_name_search">마이페이지</string>
+    <string name="review_text">"눈이 호강하고, 마지막까지 긴장을 놓칠 수 없었다."</string>
+</resources>
